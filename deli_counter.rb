@@ -3,6 +3,8 @@ my_array = ["erdo" , "semra"]
 def line(array)
   count = 0 
   result = "The line is currently:"
+  while counter < array
+ 
  if 0 < array.size 
  
 end
