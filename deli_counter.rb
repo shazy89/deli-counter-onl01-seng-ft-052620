@@ -6,7 +6,7 @@ def line(array)
    array.each.with_index do |name, index|
      result << " #{index + 1}. #{name} "
 end
-return result 
+return  puts result 
   else puts  "The line is currently empty."
 end
 end
