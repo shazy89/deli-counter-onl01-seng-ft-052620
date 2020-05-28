@@ -2,7 +2,7 @@ my_array = ["erdo" , "semra"]
 
 def line(array)
   count = 0 
-  result = 
+  result = "The line is currently:"
  if 0 < array.size 
  
 end
