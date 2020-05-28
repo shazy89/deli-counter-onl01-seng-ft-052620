@@ -1,5 +1,5 @@
 # Write your code here.
-def line
+def line(array)
  
   return puts  "The line is currently empty."
 end
