@@ -1,6 +1,6 @@
 # Write your code here.
 def line(array)
- if array.size == array.include?
+ if 0 < array.size
    return
   else puts  "The line is currently empty."
 end
