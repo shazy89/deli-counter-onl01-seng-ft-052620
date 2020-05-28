@@ -17,7 +17,7 @@ def take_a_number(katz_deli, name)
 end
 
 def now_serving(array)
-  if array == 0 
+  if array.size == 0 
     return puts "There is nobody waiting to be served!"
    end
 end 
