@@ -18,6 +18,6 @@ end
 
 def now_serving(array)
   if array == 0 
-    return 
+    return puts "There is nobody waiting to be served!"
 
 end 
