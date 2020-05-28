@@ -7,7 +7,6 @@ def line(array)
      result << " #{index + 1}. #{name} "
 end
 return result 
-  
   else puts  "The line is currently empty."
 end
 end
